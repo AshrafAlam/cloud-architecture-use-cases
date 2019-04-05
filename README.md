@@ -27,7 +27,7 @@ Thanks!
 | -           | Design System                        |                                              | [Ant](https://ant.design)                                    
 | Backend     | Server Side API Framework            |                                              | [ASP.NET Core Web API](https://docs.microsoft.com/en-us/aspnet/core/web-api)                        
 | -           | Concurrency Framework                |                                              | [.NET Task API](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming)                          |
-| -           | ORM Framework     					 | Manipulating RDMBS data 						| [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)                     
+| -           | ORM Framework     					 | Manipulating RDBMS data 						| [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)                     
 | -           | Identity Framework  				 | Managing user identity						| [.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)                     
 | -           | Cloud Access Framework               | Cloud storage access, logging etc            | [Azure Developer Tools](https://azure.microsoft.com/en-us/tools/)
 | -           | Web Socket                           | Sending monthly summary report               | [SignalIR](https://dotnet.microsoft.com/apps/aspnet/real-time)
