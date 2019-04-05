@@ -1,4 +1,4 @@
-# Awesome Azure: Use Case Cheat Sheet
+# Azure Cloud Computing: Use Case Cheat Sheet
 
 While building a scalable system is lot more easier with the advent of cloud technologies, identifying the right fit can be challenging. Usually it may take years of solid experience in architectural space. 
 
