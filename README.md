@@ -1,4 +1,4 @@
-# Cloud Architecture: Use Case Reference Map
+# Cloud Architecture: Use Cases
 
 While building a scalable system is lot more easier with the advent of cloud technologies, identifying the right fit can be challenging. Usually it may take years of solid experience in architectural space. 
 
