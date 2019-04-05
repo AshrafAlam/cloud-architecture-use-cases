@@ -16,7 +16,7 @@ Thanks!
 
 ## Diagram
 
-![Awesome Cloud Architecture](https://raw.githubusercontent.com/EISK/eisk/master/awesome-cloud-architecture.png)
+![Awesome Cloud Architecture](awesome-cloud-architecture.png)
 
 ## Table
 
