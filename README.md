@@ -8,7 +8,11 @@ Few fundamental or basic considerations, such as programming/scripting languages
 
 ## Give a Star! :star:
 
-If you like or are using this project to learn or start your solution, please give it a [star](https://github.com/EISK). Thanks!
+If you like or are using this project to learn or start your solution, please give it a star. 
+
+Have anything to add to the list? Create a PR. 
+
+Thanks!
 
 ## Diagram
 
