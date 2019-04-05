@@ -2,7 +2,7 @@
 
 While building a scalable system is lot more easier with the advent of cloud technologies, identifying the right fit can be challenging. Usually it may take years of solid experience in architectural space. 
 
-Here is a curated list of cloud services as available in azure to be used in real world use case scenarios.
+Here is a list of cloud services as available in azure to be used in real world use case scenarios.
 
 Few fundamental or basic considerations, such as programming/scripting languages, operating system choices, additional tooling etc have been intentionally ignored to make the list simple.
 
