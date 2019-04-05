@@ -1,4 +1,4 @@
-# Awesome Cloud Architecture
+# Awesome Azure: Use Case Cheet Sheet
 
 While building a scalable system is lot more easier with the advent of cloud technologies, identifying the right fit can be challenging. Usually it may take years of solid experience in architectural space. 
 
@@ -47,14 +47,3 @@ If you like or are using this project to learn or start your solution, please gi
 | -           | Document NoSQL Store                 | Product catalog                              | [Azure CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)
 | -           | Graph NoSQL Store                    | Social network graph                         | [Azure CosmosDB: Gremlin API](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
 | -           | RDBMS 			                     | Financial data - Assets, liabilities, income | [Azure Sql Database](https://azure.microsoft.com/en-us/services/sql-database/)                   
-
-
-## Open Source Project on Awesome Cloud Architecture
-
-EISK is an open source project that is intended providing developer resources to build scalable applicatations on top of awesome cloud architecture. 
-
-Already a [web api](https://github.com/EISK/eisk.webapi) project has been released to illustrate implementation best practices and more to come.
-
-Stay in touch for updates by bookmarking the project in [github](https://github.com/EISK/eisk).
-
-Enjoy!
